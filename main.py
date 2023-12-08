@@ -5,7 +5,7 @@ import numpy as np
 
 class_list={'0':'Negative','1':'Neutral','2':'Postive'}
 
-st.tille('ứng dụng nhận dạng cảm xúc từ câu phản hồi bằng văn bản của người dùng')
+st.title('ứng dụng nhận dạng cảm xúc từ câu phản hồi bằng văn bản của người dùng')
 
 #image = Image.open('')
 #st.image(image)
